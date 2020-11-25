@@ -1,0 +1,60 @@
+{
+  "students": [
+  {
+    "id": 1,
+    "name": "Barbara Gordon",
+    "class": "tony@mcu.com",
+    "address": "131 Oswaldo Street"
+  },{
+    "id": 2,
+    "name": "Zari Tomaz",
+    "age": "15",
+    "address": "37137 Abbigail Lock"
+  },{
+    "id": 3,
+    "name": "Barry Allen",
+    "age": "14",
+    "address": "094 Morris Plains"
+  },{
+    "id": 4,
+    "name": "Harleen Quinzel",
+    "age": "17",
+    "address": "14855 Cathy Square"
+  },{
+    "id": 5,
+    "name": "Selina Kyle ",
+    "age": "16",
+    "address": "612 Dayana Stream"
+  },{
+    "id": 6,
+    "name": "Edward Nigma",
+    "age": "15",
+    "address": "612 Evergring Terrase"
+  },{
+    "id": 7,
+    "name": "Oswald Chesterfield Cobblepot",
+    "age": "15",
+    "address": "967 Evergring Terrase"
+  },{
+    "id": 8,
+    "name": "Harvey Dent",
+    "age": "15",
+    "address": "456 Evergring Terrase"
+  },{
+    "id": 9,
+    "name": "Ra's al Ghul",
+    "age": "15",
+    "address": "456 Letam Terrase"
+  },{
+    "id": 10,
+    "name": "Dick Grayson",
+    "age": "15",
+    "address": "456 Letam Terrase"
+  },{
+    "id": 11,
+    "name": "Jason Todd",
+    "age": "15",
+    "address": "456 Letam Terrase"
+  }
+  ]
+}
